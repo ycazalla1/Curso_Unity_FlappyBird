@@ -28,7 +28,7 @@ Este curso está divido en las siguientes partes:
 4. Desarrollo del juego II
 
 #### Progreso
-- [ ] Tema 1  - ░░░░░░░░░░ 0%
-- [ ] Tema 2  - ░░░░░░░░░░ 0%
-- [ ] Tema 3  - ░░░░░░░░░░ 0%
+- [X] Tema 1  - ██████████ 100%
+- [X] Tema 2  - ██████████ 100%
+- [ ] Tema 3  - █████░░░░░ 50%
 - [ ] Tema 4  - ░░░░░░░░░░ 0%
